@@ -1,4 +1,6 @@
-# vue-calculator
+# basic-calculator-vuejs
+
+View Basic Calculator at (https://iamotso.github.io/basicCalculatorJS/)
 
 ## Project setup
 
